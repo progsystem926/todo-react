@@ -1,0 +1,12 @@
+.incomplete-area {
+  background-color: lightblue;
+  padding: 5px;
+  margin: 5px;
+}
+
+.incomplete-todo {
+  display: flex;
+  button {
+    margin: 5px;
+  }
+}
